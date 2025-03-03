@@ -1,1 +1,1 @@
-# Stock-and-Sales-Management
+# Stock-Management
